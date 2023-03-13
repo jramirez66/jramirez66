@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, HTML, CSS, Express, Node.js, Bootstrap, Databases**
 
-- 👯 I’m looking to collaborate on [Royal Car](https://github.com/AilinNavas/grupo_8_RoyalCar.git)
+- 🤝🏼 I’m currently collaborating on [Royal Car](https://github.com/AilinNavas/grupo_8_RoyalCar.git)
 
 - 📫 How to reach me **juanoramirez619@gmail.com**
 
