@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juan Manuel Ramirez</h1>
 <h3 align="center">A passionate full stack developer from Colombia</h3>
 
-- 🔭 I’m currently working on [Mercadoliebre](https://github.com/jramirez66/Mercadoliebre.git)
 
 - 🌱 I’m currently learning **JavaScript, HTML, CSS, Express, Node.js, Bootstrap, Databases**
 
