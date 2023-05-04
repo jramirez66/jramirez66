@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from Colombia</h3>
 
 
-- 🌱 I’m currently learning **JavaScript, HTML, CSS, Express, Node.js, Bootstrap, Databases**
+- 🌱 I’m currently learning **JavaScript, HTML, CSS, Express, Node.js, Bootstrap, Databases, React, Express, My SQL, APIs, GitHub, Scrum, MVC, Postman, Secuelize, VS Code and more**
 
 - 🤝🏼 I’m currently collaborating on [Royal Car](https://github.com/AilinNavas/grupo_8_RoyalCar.git)
 
