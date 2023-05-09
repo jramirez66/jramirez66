@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Juan Manuel Ramirez</h1>
+<h1 align="center">Hi 👋, I'm Juan Manuel</h1>
 <h3 align="center">A passionate full stack developer from Colombia</h3>
 
 
