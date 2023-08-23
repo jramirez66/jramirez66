@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Manuel</h1>
-<h3 align="center">A passionate full stack developer from Colombia</h3>
+<h3 align="center">A passionate AWS Engineer and Full Stack Developer from Colombia</h3>
 
 
 - 🌱 I’m currently learning **JavaScript, HTML, CSS, Express, Node.js, Bootstrap, Databases, React, Express, My SQL, APIs, GitHub, Scrum, MVC, Postman, Secuelize, VS Code and more**
